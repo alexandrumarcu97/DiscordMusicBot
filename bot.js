@@ -24,7 +24,7 @@ const player = createAudioPlayer({
 	},
 });
 
-const token = 'MTA0OTY2ODkwODUzOTQ2MTcwMw.GXO_UC.rUVqLjBYldl5aNz1D7wNrCwzFueeTuwcYZrqGg';
+const token = 'YOUR-BOT-TOKEN-HERE';
 
 let queue = [];
 
